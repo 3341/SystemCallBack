@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SystemCallBack</string>
+    <string name="system_ok">系统框架已响应</string>
+    <string name="serviceConfigDefault">{
+    "configCreateTime": 100,
+    "lastChangTime": 100,
+    "enabled": true,
+    "config": []
+}</string>
+</resources>
